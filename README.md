@@ -1,2 +1,2 @@
 Portfoli project (HTML,JS)
-testerr
+very basic not using react 

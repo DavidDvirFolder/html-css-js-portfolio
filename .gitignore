@@ -1,0 +1,14 @@
+# Personal documents - prevent committing sensitive files
+assets/Resume.docx
+assets/Resume.pdf
+assets/*.docx
+assets/*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+*.swo
